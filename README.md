@@ -1,5 +1,11 @@
 # School Attendance App
 
+> **Early project.** One of the first things I built, kept public as a record of where I started. Current work is on my [profile](https://github.com/samarthpaliwal).
+
+<!-- TODO: add a screenshot as docs/screenshot.png and uncomment.
+![Screenshot](docs/screenshot.png)
+-->
+
 A React Native app, built with Expo, for marking a small class present or absent for the day and then viewing a summary. Student records live in a Firebase Realtime Database; the app reads them on start, writes one attendance entry per student per day, and shows who was present and who was absent. It was created in Expo Snack and exported, so the project sits one folder down in `school-attendance-app/`.
 
 ## Requirements
